@@ -8,7 +8,7 @@ the problem.
 If interested in my apporoach and comments I invite you to read
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/04/02/remove-duplicates-from-sorted-array-in-java/
 
 Keep on reading and experimenting.
 It is the best way to learn.
